@@ -1,3 +1,12 @@
+# Hi there, I,m Mykal 👋
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mykalg6&show_icons=true&theme=gruvbox" />
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykalg6&layout=compact" />
+
+
+
+
 ### Hi there 👋
 
 <!--

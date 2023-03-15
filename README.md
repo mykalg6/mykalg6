@@ -2,7 +2,7 @@
 
 **`Digital Engineer (Security/Analyst/Developer)`**
 
-As a passionate cybersecurity enthusiast, I firmly believe that securing our digital world is more important now than ever before. As most of our technoligies are now being hosted in cloud databases its important to upload and store this data securely. I am dedicated to helping individuals and organizations understand the importance of cybersecurity and take the necessary steps to ensure their safety in the digital realm. With my expertise and commitment to the field, I am confident that we can make the digital world a safer place for everyone.
+As a passionate cloud & cybersecurity enthusiast, I firmly believe that securing our digital world is more important now than ever before. As most of our technoligies are now being hosted in cloud databases its important to upload and store this data securely. I am dedicated to helping individuals and organizations understand the importance of cybersecurity and take the necessary steps to ensure their safety in the digital realm. With my expertise and commitment to the field, I am confident that we can make the digital world a safer place for everyone.
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mykalg6&show_icons=true&theme=gruvbox" />

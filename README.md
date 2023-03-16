@@ -1,4 +1,4 @@
-# Hi there, I,m Mykal 👋
+# Hi there, I'm Mykal 👋
 
 **`Digital Engineer (Security/Analyst/Developer)`**
 
